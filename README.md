@@ -10,6 +10,7 @@
 | [0180-consecutive-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0577-employee-bonus) |
