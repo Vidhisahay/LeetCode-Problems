@@ -48,6 +48,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1789-primary-department-for-each-employee) |
+| [1795-rearrange-products-table](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1795-rearrange-products-table) |
 | [1801-average-time-of-process-per-machine](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1827-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1873-calculate-special-bonus) |
