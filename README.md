@@ -94,6 +94,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -248,6 +249,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 ## Queue
 |  |
 | ------- |
@@ -363,4 +365,12 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
