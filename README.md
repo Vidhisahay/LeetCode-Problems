@@ -79,6 +79,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
@@ -259,6 +261,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
