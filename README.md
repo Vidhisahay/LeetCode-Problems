@@ -83,6 +83,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -214,6 +215,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -348,6 +350,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
