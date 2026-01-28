@@ -115,6 +115,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
@@ -155,6 +156,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
 | ------- |
