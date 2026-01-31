@@ -67,6 +67,7 @@
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -274,6 +275,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
