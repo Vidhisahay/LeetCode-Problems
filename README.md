@@ -120,6 +120,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
