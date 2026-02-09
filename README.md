@@ -225,6 +225,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
@@ -261,6 +262,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -398,6 +400,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
@@ -425,6 +428,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -457,4 +461,12 @@
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
