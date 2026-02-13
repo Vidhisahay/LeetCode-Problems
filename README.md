@@ -270,6 +270,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
@@ -279,6 +280,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -411,6 +413,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
@@ -460,6 +463,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3650-minimum-cost-path-with-edge-reversals) |
