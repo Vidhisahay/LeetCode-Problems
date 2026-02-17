@@ -334,6 +334,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -441,6 +442,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Tree
 |  |
