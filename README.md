@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2288-count-operations-to-obtain-zero) |
@@ -347,6 +348,7 @@
 | [0868-binary-gap](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -366,6 +368,7 @@
 | [1390-four-divisors](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
