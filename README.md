@@ -135,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -163,6 +164,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -492,6 +494,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -541,4 +544,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
