@@ -138,6 +138,7 @@
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -275,6 +276,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [3453-separate-squares-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Queue
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Tree
 |  |
 | ------- |
