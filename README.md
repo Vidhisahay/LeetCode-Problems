@@ -207,6 +207,7 @@
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -611,6 +612,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [1622-fancy-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2069-walking-robot-simulation-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
