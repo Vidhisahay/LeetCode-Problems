@@ -138,6 +138,7 @@
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
@@ -584,6 +585,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
