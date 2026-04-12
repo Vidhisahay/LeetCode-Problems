@@ -233,6 +233,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -266,6 +267,7 @@
 | [0799-champagne-tower](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
