@@ -146,6 +146,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
@@ -178,6 +179,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Linked List
@@ -457,6 +459,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Stack
 |  |
 | ------- |
