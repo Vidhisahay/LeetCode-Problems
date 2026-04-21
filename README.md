@@ -85,6 +85,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -347,6 +348,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -622,6 +624,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
