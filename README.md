@@ -119,6 +119,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -216,6 +217,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -299,6 +301,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -423,6 +426,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3546-equal-sum-grid-partition-i) |
