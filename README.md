@@ -65,6 +65,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
+| [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0799-champagne-tower) |
@@ -464,6 +466,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1266-minimum-time-visiting-all-points) |
