@@ -92,6 +92,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -213,6 +214,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
@@ -622,6 +624,7 @@
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
