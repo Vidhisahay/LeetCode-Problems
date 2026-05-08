@@ -148,6 +148,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
@@ -188,6 +189,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
@@ -392,6 +394,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -502,6 +505,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3783-mirror-distance-of-an-integer) |
@@ -522,6 +526,7 @@
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
 |  |
 | ------- |
