@@ -113,6 +113,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [2751-robot-collisions](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -316,6 +317,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2463-minimum-total-distance-traveled) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
