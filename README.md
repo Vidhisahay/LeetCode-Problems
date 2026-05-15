@@ -69,6 +69,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
+| [0704-binary-search](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
@@ -425,6 +426,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
