@@ -63,6 +63,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
@@ -426,6 +427,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0704-binary-search) |
