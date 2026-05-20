@@ -1,25 +1,31 @@
 class Solution {
 public:
+    // Function to find the minimum element using binary search
     int findMin(vector<int>& nums) {
-        int n = nums.size();
-        int left = 0;
-        int right = n - 1;
-        int firstTrueIndex = -1;
 
-        // Binary search using the template: find first index where nums[mid] <= nums[n-1]
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        // Initialize low and high pointers
+        int low = 0, high = nums.size() - 1;
 
-            // Feasible condition: nums[mid] <= nums[n-1]
-            if (nums[mid] <= nums[n - 1]) {
-                firstTrueIndex = mid;
-                right = mid - 1;
+        // Binary search loop
+        while (low < high) {
+
+            // Calculate mid index
+            int mid = low + (high - low) / 2;
+
+            // Check which half to discard
+            if (nums[mid] > nums[high]) {
+
+                // Minimum lies in right half
+                low = mid + 1;
+
             } else {
-                left = mid + 1;
+
+                // Minimum lies in left half (including mid)
+                high = mid;
             }
         }
 
-        // firstTrueIndex points to the minimum element
-        return nums[firstTrueIndex];
+        // Return the minimum element
+        return nums[low];
     }
 };
