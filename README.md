@@ -72,6 +72,7 @@
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0540-single-element-in-a-sorted-array) |
@@ -448,6 +449,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0744-find-smallest-letter-greater-than-target) |
