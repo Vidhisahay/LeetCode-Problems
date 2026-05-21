@@ -285,6 +285,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1021-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -551,6 +552,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2751-robot-collisions) |
