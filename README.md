@@ -277,6 +277,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -669,6 +670,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
