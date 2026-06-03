@@ -170,6 +170,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -383,6 +384,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -478,6 +480,7 @@
 | [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Queue
 |  |
@@ -627,6 +630,7 @@
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Tree
 |  |
@@ -693,6 +697,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Graph Theory
 |  |
 | ------- |
