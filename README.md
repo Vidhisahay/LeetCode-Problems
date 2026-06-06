@@ -124,6 +124,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -499,6 +500,7 @@
 | [1895-largest-magic-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
