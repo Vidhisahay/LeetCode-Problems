@@ -182,6 +182,7 @@
 | [3660-jump-game-ix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -395,6 +396,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -420,6 +422,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
@@ -693,6 +696,7 @@
 | ------- |
 | [1622-fancy-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
