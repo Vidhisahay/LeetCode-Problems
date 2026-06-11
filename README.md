@@ -439,6 +439,7 @@
 | [2092-find-all-people-with-secret](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2092-find-all-people-with-secret) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -575,6 +576,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -660,6 +662,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
 |  |
