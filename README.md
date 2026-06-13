@@ -189,6 +189,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3838-weighted-word-mapping) |
 | [3863-power-grid-maintenance](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -287,6 +288,7 @@
 | [3379-transformed-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3838-weighted-word-mapping](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
