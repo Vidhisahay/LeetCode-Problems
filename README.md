@@ -237,6 +237,7 @@
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -725,6 +726,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
