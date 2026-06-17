@@ -1,0 +1,37 @@
+using ll=long long;
+constexpr int N=1e5;
+ll Len[N]={0};
+class Solution {
+public:
+    static char processStr(string& s, long long k) {
+        const int n=s.size();
+        ll L=0;
+        for(int i=0; i<n; i++){
+            const char c=s[i];
+            switch(c){
+                case '*': L-=(L>0); break;
+                case '#': L<<=1; break;
+                case '%': break;
+                default: L++;
+            }
+            Len[i]=L;
+        }
+        if (L-1<k) return '.';
+        for(int i=n-1; i>=0; i--){
+            const char c=s[i];
+            L=Len[i];
+            if (L==0) continue;
+            switch(c){
+                case '*': break;
+                case '#': 
+                    if (k>=L/2) k-=L/2; break;
+                case '%':
+                    k=L-1-k; 
+                    break;
+                default:
+                    if (k==L-1) return c;
+            }
+        }
+        return '.';
+    }
+};
