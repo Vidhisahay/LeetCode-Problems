@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -668,6 +669,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0543-diameter-of-binary-tree) |
@@ -704,6 +706,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0543-diameter-of-binary-tree) |
@@ -766,6 +769,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3719-longest-balanced-subarray-i) |
@@ -773,6 +777,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
 ## Rolling Hash
 |  |
