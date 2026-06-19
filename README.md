@@ -79,6 +79,7 @@
 | [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
@@ -373,6 +374,7 @@
 | [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
@@ -413,6 +415,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
