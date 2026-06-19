@@ -75,6 +75,7 @@
 | [0039-combination-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -733,6 +734,7 @@
 | [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
