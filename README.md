@@ -76,6 +76,7 @@
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -671,6 +672,7 @@
 | [0015-3sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -735,6 +737,7 @@
 | [0039-combination-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
