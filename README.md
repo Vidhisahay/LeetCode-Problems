@@ -241,6 +241,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
@@ -754,6 +755,7 @@
 | [0015-3sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0696-count-binary-substrings) |
