@@ -308,6 +308,7 @@
 | [0006-zigzag-conversion](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
@@ -357,6 +358,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
@@ -716,6 +718,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
