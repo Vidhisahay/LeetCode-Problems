@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
@@ -678,6 +679,7 @@
 | [0016-3sum-closest](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0056-merge-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
