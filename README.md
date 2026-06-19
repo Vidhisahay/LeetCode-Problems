@@ -71,6 +71,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -254,6 +256,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
