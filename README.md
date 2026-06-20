@@ -119,6 +119,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
@@ -612,6 +613,7 @@
 | [1622-fancy-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1925-count-square-sum-triples) |
@@ -686,6 +688,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1340-jump-game-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
