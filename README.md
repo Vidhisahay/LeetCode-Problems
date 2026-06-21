@@ -81,6 +81,7 @@
 | [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0056-merge-intervals) |
@@ -772,6 +773,7 @@
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
