@@ -624,6 +624,7 @@
 | [0012-integer-to-roman](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
@@ -891,6 +892,7 @@
 | [0010-regular-expression-matching](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0060-permutation-sequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
