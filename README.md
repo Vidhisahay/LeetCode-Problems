@@ -258,6 +258,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
@@ -866,6 +867,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0025-reverse-nodes-in-k-group) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
