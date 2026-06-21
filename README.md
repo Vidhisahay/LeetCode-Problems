@@ -329,6 +329,7 @@
 | [0012-integer-to-roman](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0151-reverse-words-in-a-string) |
@@ -381,6 +382,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
@@ -649,6 +651,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1653-minimum-deletions-to-make-string-balanced) |
