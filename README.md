@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
@@ -463,6 +464,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -830,6 +832,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1382-balance-a-binary-search-tree) |
@@ -881,4 +884,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
