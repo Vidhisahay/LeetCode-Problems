@@ -86,6 +86,7 @@
 | [0054-spiral-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
@@ -281,6 +282,7 @@
 | [0037-sudoku-solver](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -311,6 +313,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
