@@ -72,6 +72,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0045-jump-game-ii) |
@@ -215,6 +216,7 @@
 | [0012-integer-to-roman](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0146-lru-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -758,6 +761,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0046-permutations) |
