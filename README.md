@@ -128,6 +128,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1861-rotating-the-box) |
@@ -460,6 +461,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1975-maximum-matrix-sum) |
@@ -734,6 +736,7 @@
 | [1340-jump-game-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
