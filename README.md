@@ -189,6 +189,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -444,6 +445,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3640-trionic-array-ii) |
@@ -481,6 +483,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3689-maximum-total-subarray-value-i) |
@@ -586,6 +589,7 @@
 | [3453-separate-squares-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -638,6 +642,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -765,6 +770,7 @@
 | [3433-count-mentions-per-user](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -865,6 +871,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Graph Theory
 |  |
@@ -872,6 +879,7 @@
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
