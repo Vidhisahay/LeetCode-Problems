@@ -112,6 +112,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -235,6 +236,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1331-rank-transform-of-an-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -751,6 +753,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1840-maximum-building-height) |
