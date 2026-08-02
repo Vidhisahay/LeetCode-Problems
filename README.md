@@ -97,6 +97,7 @@
 | [0162-find-peak-element](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0704-binary-search) |
@@ -435,6 +436,7 @@
 | [0085-maximal-rectangle](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0799-champagne-tower) |
@@ -682,6 +684,7 @@
 | [0066-plus-one](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0788-rotated-digits) |
@@ -983,6 +986,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
@@ -1008,4 +1012,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
