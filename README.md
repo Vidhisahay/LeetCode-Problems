@@ -108,6 +108,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1266-minimum-time-visiting-all-points) |
@@ -442,6 +443,7 @@
 | [0788-rotated-digits](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -626,6 +628,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1732-find-the-highest-altitude) |
@@ -691,6 +694,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1390-four-divisors) |
@@ -1021,4 +1025,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
