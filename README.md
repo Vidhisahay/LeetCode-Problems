@@ -423,6 +423,7 @@
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3714-longest-balanced-substring-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -791,6 +792,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
@@ -935,6 +937,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vidhisahay/LeetCode-SQL-50/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
